@@ -19,7 +19,7 @@
 ## 🚀 Usage Guide
 
 1. Clone the repository:
-   `git clone https://github.com/YOUR_USERNAME/MAHAZONA-Host-Checker.git`
+   `git clone https://github.com/@Virus_tw/MAHAZONA-Host-Checker.git`
 2. Run the script:
    `cd MAHAZONA-Host-Checker`
    `python mahazona_checker.py`
